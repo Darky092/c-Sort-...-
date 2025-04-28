@@ -1,0 +1,3 @@
+﻿  labaSortAndKomp.cpp
+C:\Users\purr\source\repos\labaSortAndKomp\labaSortAndKomp\labaSortAndKomp.cpp(109,29): warning C4244: аргумент: преобразование "double" в "const unsigned __int64", возможна потеря данных
+  labaSortAndKomp.vcxproj -> C:\Users\purr\source\repos\labaSortAndKomp\x64\Debug\labaSortAndKomp.exe
